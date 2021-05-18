@@ -3,6 +3,8 @@
 基于 Vue & ElementUI 的电商 SKU 表单配置组件
 
 [文档](https://hooray.github.io/vue-sku-form)
+# 参考
 
+[hooray/vue-sku-form](https://github.com/hooray/vue-sku-form)
 ## 你或许感兴趣
 
